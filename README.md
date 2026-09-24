@@ -111,8 +111,8 @@ python-proxy/
 
 ## Related
 
-- [nodejs-proxy](https://github.com/we1town-dev/nodejs-proxy) · [php-proxy](https://github.com/we1town-dev/php-proxy)  
-- [residential-proxies](https://github.com/we1town-dev/residential-proxies) · [free-proxy-list](https://github.com/we1town-dev/free-proxy-list)  
+- [nodejs-proxy](https://github.com/weproxy-io/nodejs-proxy) · [php-proxy](https://github.com/weproxy-io/php-proxy)  
+- [residential-proxies](https://github.com/weproxy-io/residential-proxies) · [free-proxy-list](https://github.com/weproxy-io/free-proxy-list)  
 - [Integrations](https://weproxy.io/en/integrations) · [Tools](https://weproxy.io/en/tools)  
 
 ## License
